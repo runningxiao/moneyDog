@@ -4,4 +4,5 @@
 ::ffff:127.0.0.1 - - [Thu, 30 Nov 2017 02:05:00 GMT] "GET /stylesheets/style.css HTTP/1.1" 200 1519 "http://127.0.0.1:3000/post" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
 ::ffff:127.0.0.1 - - [Thu, 30 Nov 2017 02:05:10 GMT] "POST /post HTTP/1.1" 302 46 "http://127.0.0.1:3000/post" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
 ::ffff:127.0.0.1 - - [Thu, 30 Nov 2017 02:05:10 GMT] "GET / HTTP/1.1" 200 3022 "http://127.0.0.1:3000/post" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
-::ffff:127.0.0.1 - - [Thu, 30 Nov 2017 02:05:10 GMT] "GET /stylesheets/style.css HTTP/1.1" 200 1519 "http://127.0.0.1:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
+::ffff:127.0.0.1 - - [1111`:wq
+Thu, 30 Nov 2017 02:05:10 GMT] "GET /stylesheets/style.css HTTP/1.1" 200 1519 "http://127.0.0.1:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36"
